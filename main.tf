@@ -18,3 +18,8 @@ resource "azurerm_resource_group" "pravin" {
   name = "pravin"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "priya" {
+  name = "priya"
+  location = "West Europe"
+}
